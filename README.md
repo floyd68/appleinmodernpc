@@ -1,8 +1,8 @@
-# Apple in PC
+# Apple in Modern PC
 
-AIPC(Apple in PC) is an Apple //e computer emulator for Windows.
+AIMPC(Apple in Modern PC) is an Apple //e computer emulator for Windows 7+, forked from sosaria7/appleinpc.
 
-AIPC is open source under GPL and free to use.
+AIMPC is open source under GPL and free to use.
 
 Features include:
   - Emulates Apple //e enhanced computer
@@ -15,11 +15,9 @@ Features include:
   - NTSC color approximation
   - Save and restore running status
 
+Features planned:
+  - Direct2D/Direct3D11 support
+  - Elegant UIs
+  
 Source download:
-  https://github.com/sosaria7/appleinpc
-
-Latest release:
-  [Apple in PC 0.1.38.2](https://github.com/sosaria7/appleinpc/releases/download/0.1.38.2/aipc_0.1.38.2.zip)
-
-Screen shots:
-  https://github.com/sosaria7/appleinpc/wiki/Apple-in-PC---Screen-Shot
+  https://github.com/floyd68/appleinmodernpc
